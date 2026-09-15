@@ -1,0 +1,22 @@
+{
+  "name": "PDF_Search",
+  "short_name": "PDF_Search",
+  "description": "A tool for searching PDFs.",
+  "start_url": "PDF_Search.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "iconpdfs1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "iconpdfs2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
